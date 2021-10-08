@@ -1,0 +1,1 @@
+qrCode-svg-script
