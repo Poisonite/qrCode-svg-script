@@ -1,0 +1,31 @@
+{
+  "name": "qrcode-svg-script",
+  "version": "1.0.0",
+  "description": "A little wrapper to quickly generate SVG QR codes",
+  "main": "SVG-Gen.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "colors": "^1.4.0",
+    "qrcode-svg": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poisonite/qrCode-svg-script.git"
+  },
+  "keywords": [
+    "SVG",
+    "QR",
+    "Code",
+    "QRCode"
+  ],
+  "author": "Zac Ingoglia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poisonite/qrCode-svg-script/issues"
+  },
+  "homepage": "https://github.com/Poisonite/qrCode-svg-script#readme"
+}
